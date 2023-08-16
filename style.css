@@ -1,0 +1,17 @@
+img {
+    width: 200px;
+    height: 200px;
+    padding: 100px;
+}
+
+body {
+    background-color:rgb(112, 112, 135);
+}
+
+h1 {
+    width: 100%;
+    color: rgb(33, 63, 16);
+    font-weight: bold;
+    font-size: 50px;
+
+}
